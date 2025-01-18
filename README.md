@@ -3,9 +3,6 @@
 ## Project Overview
 This README provides an overview of my implementations for Minecraft Project - a game that all we know.
 
-## Introduction
-The `libchunk` library is designed to handle chunk-based data processing.
-
 ## File Descriptions
 ### `chunk_gen.c`
 - **Description**: Implements the core chunk data structure and associated operations.
